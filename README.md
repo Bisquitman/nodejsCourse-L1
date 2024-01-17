@@ -1,3 +1,1 @@
-# node-template-project
-
-## Стартовый шаблон node.js
+# Курс node.js - Урок 1
